@@ -38,6 +38,7 @@
 	font-size:30px;
 	display:inline-block;
 	margin-top:40px;
+	color:#333;
 }
 .gallery-card-title:hover{
 	text-decoration:underline;
