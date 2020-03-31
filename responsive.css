@@ -37,7 +37,11 @@
 		font-size:28px;	
 	}
 	.gallery-card{
-		float:none;	
+		float:none;
+		margin:45px 0 0 0;
+	}
+	.gallery-cards{
+		width:100%;
 	}
 	footer p{
 		width:90%;
