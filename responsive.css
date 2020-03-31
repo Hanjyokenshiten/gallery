@@ -19,6 +19,9 @@
 	header i{
 		display:block;	
 	}
+	.gallery-main{
+		height:1050px;	
+	}
 	.top{
 		background-position:25%;
 		height:350px;
@@ -32,6 +35,9 @@
 	}
 	.gallery-title{
 		font-size:28px;	
+	}
+	.gallery-card{
+		float:none;	
 	}
 	footer p{
 		width:90%;
