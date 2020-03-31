@@ -38,7 +38,7 @@
 	}
 	.gallery-card{
 		float:none;
-		margin:45px 6px;
+		margin:45px auto 0 auto;
 	}
 	.gallery-cards{
 		width:100%;
